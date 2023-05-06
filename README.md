@@ -1,7 +1,7 @@
 # Timers ws app
-A simple timers app that uses that uses web sockets and SQLite3 database
-to save the results of timers. Also there is the opportunity to signup
-and login which means that several users can use this app
+A simple timers app that uses web sockets and SQLite3 database
+to save the results of timers. Also there is the opportunity to
+signup and login which means that several users can use this app
 
 ![Signup/Login](screenshots/preview1.png)
 
