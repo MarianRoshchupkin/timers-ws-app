@@ -32,7 +32,7 @@ $ npm run start
 ## Author
 Marian Roshchupkin &lt;roshchupkin.marian@gmail.com&gt;
 
-Updated on: 29 April 2023
+Updated on: 7 May 2023
 
 ## License
 Apache - see [LICENSE](LICENSE)
